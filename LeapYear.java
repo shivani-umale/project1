@@ -1,11 +1,9 @@
-package practice;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
+
 import java.util.*;
 
 public class LeapYear {
      
-	public static void main(String[] args) throws ParseException {
+	public static void main(String[] args){
 		// TODO Auto-generated method stub
 		
 		int year=2004;
