@@ -16,11 +16,9 @@ public class LeapYear {
 	public static void main(String[] args) throws ParseException {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
-		int year=sc.nextInt();
+		int year=2004
 		System.out.println("the year is leap  "+isLeap(year));
-		SimpleDateFormat sd=new SimpleDateFormat("MM/dd/yyyy",Locale.ENGLISH);
-		Date d=sd.parse("06/07/2000");
-		Date d1=sd.parse("05/04/2004");
+		
 		
 		
 
